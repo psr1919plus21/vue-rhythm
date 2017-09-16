@@ -8,7 +8,7 @@ Here several ways to get *vue-rhythm*:
 **download**
 
     Copypaste component in your project:
-    [Get vue-rhythm][rawfile]
+[Get vue-rhythm](https://raw.githubusercontent.com/psr1919plus21/vue-rhythm/master/vue-rhythm/index.js)
 
 **npm**
 
@@ -60,6 +60,3 @@ In order to override settings you can pass settings objects through props like t
         lineHeight: 14,
         verticalOffset: 22}>
     </vue-rhythm>`
-
-
-[rawfile]: <https://github.com/joemccann/dillinger>
