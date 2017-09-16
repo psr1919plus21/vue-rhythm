@@ -24,17 +24,21 @@ Usage
 In order to initialise *vue-rhythm*  you need to add *vue-rhythm* code to your project and place `<vue-rhythm></vue-rhythm>` component to your markdown.
 
 **Example:**
+
 in html:
+
     <div id="app">
-      <vue-rhythm></vue-rhythm>
+    	<vue-rhythm></vue-rhythm>
     </div>
 
-in script:  
-   import './components/vue-rhythm';
 
-   new Vue({
-     el: '#app',
-   })
+in script:
+
+     import './components/vue-rhythm';
+
+     new Vue({
+       el: '#app',
+     })
 
 
 After this *vue-rhythm* grid will be added on the page.
@@ -45,18 +49,20 @@ Settings
 ---------
 
 By default *vue-rhythm* grid appears with following settings:
-  {
-    bgColor: 'rgba(255, 0, 0, .2)',
-    gridColor: 'rgba(0, 0, 0, .9)',
-    lineHeight: 28,
-    verticalOffset: 0
-  }
+
+      {
+        bgColor: 'rgba(255, 0, 0, .2)',
+        gridColor: 'rgba(0, 0, 0, .9)',
+        lineHeight: 28,
+        verticalOffset: 0
+      }
 
 In order to override settings you can pass settings objects through props like this:
-    `<vue-rhythm
-      :settings={
-        bgColor: "#333",
-        gridColor: "rgba(0, 0, 0, .5)",
-        lineHeight: 14,
-        verticalOffset: 22}>
-    </vue-rhythm>`
+
+      <vue-rhythm
+        :settings={
+          bgColor: "#333",
+          gridColor: "rgba(0, 0, 0, .5)",
+          lineHeight: 14,
+          verticalOffset: 22}>
+      </vue-rhythm>
