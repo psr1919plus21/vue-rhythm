@@ -1,5 +1,7 @@
 # Vue component tool that helps you to support vertical rhythm.
 
+![Image of vue-rhythm](https://octodex.github.com/images/yaktocat.png)
+
 Get *vue-rhythm*
 ----------
 
