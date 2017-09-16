@@ -1,5 +1,3 @@
-/* global Vue */
-
 Vue.component('vue-rhythm', {
   template: '<div v-show="isVisible" class="vue-rhythm" :style="[basicStyles, gridStyles]"></div>',
   props: ['settings'],
