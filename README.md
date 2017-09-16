@@ -10,7 +10,8 @@ Copypaste component in your project:
 [Get vue-rhythm](https://raw.githubusercontent.com/psr1919plus21/vue-rhythm/master/vue-rhythm/index.js)
 
 **npm**
-npm install vue-rhythm
+
+    npm install vue-rhythm
 
 
 Usage
