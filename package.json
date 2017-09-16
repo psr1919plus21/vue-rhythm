@@ -1,0 +1,27 @@
+{
+  "name": "vue-rhythm",
+  "version": "1.0.0",
+  "description": "Vue component tool that helps you to support vertical rhythm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psr1919plus21/vue-rhythm.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue-rhythm",
+    "'vertical",
+    "rhythm'",
+    "typography"
+  ],
+  "author": "psr1919plus21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psr1919plus21/vue-rhythm/issues"
+  },
+  "homepage": "https://github.com/psr1919plus21/vue-rhythm#readme"
+}
