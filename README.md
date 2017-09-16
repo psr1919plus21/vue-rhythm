@@ -31,7 +31,7 @@ in html:
 
 in script:
 
-     import './components/vue-rhythm';
+     import 'vue-rhythm';
 
      new Vue({
        el: '#app',
