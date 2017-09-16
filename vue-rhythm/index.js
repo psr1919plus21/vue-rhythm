@@ -10,7 +10,7 @@ Vue.component('vue-rhythm', {
         bgColor: 'rgba(255, 0, 0, .2)',
         gridColor: 'rgba(0, 0, 0, .9)',
         lineHeight: 28,
-        verticalOffset: 15
+        verticalOffset: 0
       },
       basicStyles: {
         position: 'absolute',
