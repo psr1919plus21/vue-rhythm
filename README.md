@@ -9,7 +9,7 @@ Here several ways to get *vue-rhythm*:
 
 **download**
 Copypaste component in your project:
-[Get vue-rhythm](https://raw.githubusercontent.com/psr1919plus21/vue-rhythm/master/vue-rhythm/index.js)
+[Get vue-rhythm](https://raw.githubusercontent.com/psr1919plus21/vue-rhythm/master/index.js)
 
 **npm**
 
